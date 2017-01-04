@@ -13,4 +13,6 @@ Part 3) uses sigmoidal activation function istead of tanh which is used in other
 
 The loss function is printed at each iteration and in the end the graph is plotted for model build on the moons dataset. 
 
+![Alt text](/figure_1.png?raw=true "Plot Example")
+
 Run Test.py for running each example.
